@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -42,3 +43,8 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+# Homework-01
+
+Code Refactor assignment
+>>>>>>> 73c781eddcecf58456ba5ba3b6188b552c330c04
